@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-E10098?style=flat-square&logo=GitHubSponsors&logoColor=white"/></a>
 <a href="mailto:chae02188@gmail.com"><img src="https://img.shields.io/badge/chae02188@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
+<a href="https://github.com/Kimeunchaee?tab=repositories"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
